@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Stack","A trait for objects that hold ownership of a stack."]]});

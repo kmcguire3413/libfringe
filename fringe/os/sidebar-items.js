@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Stack","This object represents a stack from the operating system's anonymous memory mapping facility, usually `mmap`. The stack it provides comes with a guard page, which is not included in the stack limit."]]});

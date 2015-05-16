@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Context","Context is the heart of libfringe. A context represents a saved thread of execution, along with a stack. It can be swapped into and out of with the swap method, and once you're done with it, you can get the stack back through unwrap."]]});
